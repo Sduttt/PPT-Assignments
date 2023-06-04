@@ -1,4 +1,4 @@
-# Assignment 4
+# Assignment 6
 
 [This](./src/Main.java) is the collection of all problems and solutions of day 4 assignment of iNeuron Pre-placement Training.
 

@@ -1,4 +1,4 @@
-# Assignment 2
+# Assignment 3
 
 [This](./src/Main.java) is the collection of all problems and solutions of day 3 assignment of iNeuron Pre-placement Training.
 
